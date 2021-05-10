@@ -55,6 +55,9 @@ namespace WindowsFormsApplication1
             Console.WriteLine("delete ok:GENIDXTSISSI = " + id.ToString());
 
 
+
+
+
             Application.Run(new Form1());
         }
     }
